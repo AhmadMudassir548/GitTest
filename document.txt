@@ -1,0 +1,2 @@
+This is me using nano editor.
+Writing text in the nano editor in a text file then saving it.
